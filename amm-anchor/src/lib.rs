@@ -26,7 +26,7 @@ pub mod openbook_program_id {
     anchor_lang::declare_id!("EoTcMgcDRTJVZDMZWBoU6rhYHZfkNTVEAfz3uUJRcYGj");
 }
 
-declare_id!("675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8");
+declare_id!("FpXeq2Vvory2Ye3R3Dz2fnxko3Vy4zYhEehsSwTQpRNM");
 
 /// The AMM program
 #[derive(Clone)]

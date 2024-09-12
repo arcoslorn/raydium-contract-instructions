@@ -12,7 +12,7 @@ pub use instructions::*;
 
 use anchor_lang::prelude::*;
 
-declare_id!("EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q");
+declare_id!("2yxhPfkN5rbWtvMru4e3DcguG64NWHQtb41t5tDq3wtP");
 
 /// Farm Program
 #[derive(Clone)]
